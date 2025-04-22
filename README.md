@@ -1,4 +1,4 @@
 # do400-git-lab
 
-This is an example project for the Red Hat course.
+This is a simple example for the Red Hat course.
 
